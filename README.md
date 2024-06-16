@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @chiragO9
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Chirag Solanki</h1>
+<h3 align="center">Currently studying in Computer Engineering from India.</h3>
+
+- 🔭 I’m currently working on **fullStack webApp**
+
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **react**
+
+- ⚡ Fun fact **I'm having fun being serious.**
+
 
 <p align="center"> 
   Visitors count<br>
