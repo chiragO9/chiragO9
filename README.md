@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chirag Solanki</h1>
-<h3 align="center">Currently studying in Computer Engineering from India.</h3>
+<h3 align="center">Currently studying in Computer Science from India.</h3>
 
-- 🔭 I’m currently working on **fullStack webApp.**
+- 🔭 I’m currently working on **MVC Application in php technoloy.**
 
-- 🌱 I’m learning **Web-Development.**
+- 🌱 I’m learning **Frontend.**
 
 - ⚡ Fun fact **I'm having fun being serious.**
 
