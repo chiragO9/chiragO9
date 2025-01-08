@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chirag Solanki</h1>
 <h3 align="center">Currently studying in Computer Science from India.</h3>
 
-- 🔭 I’m currently working on **Python.**
+- 🔭 I’m currently Having my internship at  **Grownited Private Limited.**
 
-- 🌱 I’m learning **Frontend.**
+- 🌱 I’m learning **Python.**
 
 - ⚡ Fun fact **I'm having fun being serious.**
 
