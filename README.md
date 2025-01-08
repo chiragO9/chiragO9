@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chirag Solanki</h1>
 <h3 align="center">Currently studying in Computer Science from India.</h3>
 
-- 🔭 I’m currently working on **MVC Application in php technoloy.**
+- 🔭 I’m currently working on **Python.**
 
 - 🌱 I’m learning **Frontend.**
 
