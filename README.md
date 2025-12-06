@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Solanki</h1>
-<h3 align="center">Student at Marwadi University GTU.</h3>
+<h3 align="center">Backend Developer</h3>
 
 - 🌱 I’m learning **Python and Fastapi.**
 
