@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chirag Solanki</h1>
+<h1 align="center">Hi 👋, I'm Chirag Solanki.</h1>
 <!-- <h3 align="center">Student at Marwadi College.</h3> -->
 
 - 🌱 I’m learning **Python and Fastapi.**
