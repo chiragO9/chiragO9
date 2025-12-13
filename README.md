@@ -1,34 +1,39 @@
 <h1 align="center">Hi 👋, I'm Chirag Solanki</h1>
 <h3 align="center">Python Backend Developer | FastAPI & MySQL Specialist</h3>
 
-<p align="center">
-  <a href="https://github.com/chiragO9">
-    <img src="https://komarev.com/ghpvc/?username=chiragO9&label=Profile%20views&color=0e75b6&style=flat" alt="chiragO9" />
-  </a>
-  <a href="https://github.com/chiragO9?tab=followers">
-    <img src="https://img.shields.io/github/followers/chiragO9?label=Followers&style=social" alt="Followers">
-  </a>
-</p>
-
-## 🚀 About Me
-I'm a passionate backend developer specializing in **Python**, **FastAPI**, and **MySQL**. Currently focused on building robust, scalable APIs with efficient database architectures. As a fresher, I'm eager to contribute to meaningful projects and grow my expertise in full backend development.
-
 ## 💻 Tech Stack
 
-### **Languages**
+### **Programming Language**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Frameworks & Libraries**
+### **Framework Tools & Template**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=alembic&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+
+### **Testing & Version Control**
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-### **Databases & ORM**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-
-### **Tools & Version Control**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### **Database**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chiragO9&show_icons=true&theme=dark&hide_border=true" alt="Chirag's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragO9&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragO9&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## ⚡ Fun Fact
+> "I'm having fun being serious!"
+
+---
+
+⭐️ *From [chiragO9](https://github.com/chiragO9)*
