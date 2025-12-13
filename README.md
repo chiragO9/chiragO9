@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Solanki</h1>
-<h3 align="center">Python Backend Developer | FastAPI & MySQL Specialist</h3>
+<h3 align="center">Python Backend Developer | FastAPI</h3>
 
 ## 💻 Tech Stack
 
@@ -36,4 +36,3 @@
 
 ---
 
-⭐️ *From [chiragO9](https://github.com/chiragO9)*
