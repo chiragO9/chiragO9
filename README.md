@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Solanki</h1>
-<h3 align="center">Python Backend Developer | FastAPI</h3>
+<h3 align="center">Learning Python Backend Development | FastAPI</h3>
 
 ## 💻 Tech Stack
 
