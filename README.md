@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chirag Solanki</h1>
 <h3 align="center">Learning Python Backend Development | FastAPI</h3>
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### **Programming Language**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
