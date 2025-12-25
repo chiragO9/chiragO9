@@ -1,18 +1,25 @@
 <h1 align="center">Hi 👋, I'm Chirag Solanki</h1>
 <h3 align="center">Learning Python Backend Development | FastAPI</h3>
 
-## Tech Stack
+## 💻 Technical Skills
 
-### **Programming Language**
+### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### **Framework**
+### **Web Framework**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Tools**
+### **ORM & Migration**
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=for-the-badge&logo=alembic&logoColor=white)
+
+### **Templating Engine**
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+
+### **Version Control**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
