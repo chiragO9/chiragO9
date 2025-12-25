@@ -15,16 +15,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiragO9&show_icons=true&theme=dark&hide_border=true" alt="Chirag's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragO9&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chiragO9&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragO9&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chiragO9&theme=github_dark" alt="Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chiragO9&theme=github_dark" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chiragO9&theme=github_dark" alt="Repos Per Language" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chiragO9&theme=github_dark" alt="Productive Time" height="180"/>
 </p>
 
 ## ⚡ Fun Fact
 > "I'm having fun being serious!"
 
 ---
-
