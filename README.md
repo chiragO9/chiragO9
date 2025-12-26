@@ -19,6 +19,9 @@
 ### **Templating Engine**
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
+### **Testing**
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
 ## 📊 GitHub Stats
 
 <p align="center">
